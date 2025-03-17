@@ -8,8 +8,6 @@ GitHub：https://github.com/wlbbaa
 
 Telegram：https://t.me/robberer
 
-Telegram: @robberer
-
 ## **辅助工具箱过验证脚本**  
 
 ### **简介**  
